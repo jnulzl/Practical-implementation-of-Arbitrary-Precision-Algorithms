@@ -1,0 +1,7 @@
+.vs
+.idea
+
+out
+build*
+cmake*
+CMake*json
