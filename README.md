@@ -6,6 +6,8 @@
 
 - 编译器：g++ for Linux，Visual Studio 2022
 
+- [Arbitrary precision package(Revised: 2023 June20)](doc/PrecisionBinary.zip)
+
 - cmake
 
 ## 安装
@@ -38,6 +40,8 @@ pi = 3.14159265358979323846242518065653893272160552913878E0
 
 
 ## 参考链接
+
+- [Approximations of π](https://en.wikipedia.org/wiki/Approximations_of_%CF%80)
 
 以下参考链接均来自同一个人**[Henrik Vestermark](https://scholar.google.com/citations?user=A37RUQcAAAAJ&hl=da)**
 
