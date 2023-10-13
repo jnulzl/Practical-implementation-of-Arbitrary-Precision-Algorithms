@@ -2,9 +2,9 @@
 
 ## 环境
 
-- 系统：Linux && Windows
+- 系统：Linux or Windows
 
-- 编译器：g++ for Linux，Visual Studio 2022
+- 编译器：g++ for Linux or Visual Studio 2022 for Win
 
 - [Arbitrary precision package(Revised: 2023 June20)](doc/PrecisionBinary.zip)
 
